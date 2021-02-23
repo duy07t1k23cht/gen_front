@@ -1,0 +1,399 @@
+{
+    "driver_license_front.png426530": {
+        "filename": "driver_license_front.png",
+        "size": 426530,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 13,
+                    "width": 84,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "key_type": "driver_license_bo_gtvt_1",
+                    "text": "BỘ GTVT"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 37,
+                    "width": 43,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "key_type": "driver_license_bo_gtvt_2",
+                    "text": "MOT"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 202,
+                    "y": 12,
+                    "width": 357,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "chxh_1",
+                    "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 260,
+                    "y": 38,
+                    "width": 243,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "key_type": "chxh_2",
+                    "text": "Độc lập - Tự do - Hạnh phúc"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 184,
+                    "y": 61,
+                    "width": 393,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "title",
+                    "text": "GIẤY PHÉP LÁI XE/ DRIVER'S LICENSE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 301,
+                    "y": 89,
+                    "width": 63,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "key_id",
+                    "text": "Số/ No:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 116,
+                    "width": 117,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "key_ho_ten",
+                    "text": "Họ tên/Full name:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 145,
+                    "width": 156,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "key_ngay_sinh",
+                    "text": "Ngày sinh/Date of Birth:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 169,
+                    "width": 144,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "key_type": "key_quoc_tich",
+                    "text": "Quốc tịch/Nationality:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 195,
+                    "width": 128,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "key_ho_khau_thuong_tru",
+                    "text": "Nơi cư trú/Address:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 304,
+                    "y": 245,
+                    "width": 63,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "key_ngay_cap",
+                    "text": ", ngày/date"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 387,
+                    "y": 245,
+                    "width": 74,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "key_thang_cap",
+                    "text": "tháng/month"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 485,
+                    "y": 247,
+                    "width": 57,
+                    "height": 14
+                },
+                "region_attributes": {
+                    "key_type": "key_nam_cap",
+                    "text": "năm/year"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 295,
+                    "width": 81,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "key_hang_cap",
+                    "text": "Hạng/Class:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 328,
+                    "width": 146,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "key_type": "key_ngay_het_han",
+                    "text": "Có giá trị đến/Expires:"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 320,
+                    "y": 262,
+                    "width": 247,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "key_type": "noi_cap",
+                    "text": "TUQ. GIÁM ĐỐC SỞ GTVT TP.HCM"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 320,
+                    "y": 277,
+                    "width": 245,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "level_nguoi_cap",
+                    "text": "TRƯỞNG PHÒNG QLSH CẤP GPLX"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 375,
+                    "y": 336,
+                    "width": 136,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "key_type": "nguoi_cap",
+                    "text": "Võ Trọng Nhân"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 366,
+                    "y": 89,
+                    "width": 144,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "id"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 344,
+                    "y": 116,
+                    "width": 200,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "key_type": "ho_ten"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 387,
+                    "y": 144,
+                    "width": 126,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "key_type": "ngay_sinh"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 330,
+                    "y": 169,
+                    "width": 239,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "quoc_tich"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 370,
+                    "y": 197,
+                    "width": 152,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "ho_khau_thuong_tru_1"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 234,
+                    "y": 219,
+                    "width": 307,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "ho_khau_thuong_tru_2"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 296,
+                    "width": 29,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "hang_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 167,
+                    "y": 329,
+                    "width": 109,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "key_type": "ngay_het_han"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 85,
+                    "width": 172,
+                    "height": 206
+                },
+                "region_attributes": {
+                    "key_type": "profile_image"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 368,
+                    "y": 245,
+                    "width": 17,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "ngay_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 463,
+                    "y": 245,
+                    "width": 20,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "thang_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 543,
+                    "y": 246,
+                    "width": 33,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "nam_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 235,
+                    "y": 245,
+                    "width": 68,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "key_type": "address_date"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}

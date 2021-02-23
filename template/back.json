@@ -1,0 +1,1390 @@
+{
+    "back.png1256626": {
+        "filename": "back.png",
+        "size": 1256626,
+        "regions": [{
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 243,
+                    "y": 98,
+                    "width": 335,
+                    "height": 45
+                },
+                "region_attributes": {
+                    "key_type": "dan_toc"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 734,
+                    "y": 99,
+                    "width": 350,
+                    "height": 48
+                },
+                "region_attributes": {
+                    "key_type": "ton_giao"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 502,
+                    "y": 234,
+                    "width": 592,
+                    "height": 54
+                },
+                "region_attributes": {
+                    "key_type": "dau_vet_1"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 504,
+                    "y": 302,
+                    "width": 591,
+                    "height": 51
+                },
+                "region_attributes": {
+                    "key_type": "dau_vet_2"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 600,
+                    "y": 390,
+                    "width": 90,
+                    "height": 40
+                },
+                "region_attributes": {
+                    "key_type": "ngay_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 785,
+                    "y": 391,
+                    "width": 76,
+                    "height": 40
+                },
+                "region_attributes": {
+                    "key_type": "thang_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 942,
+                    "y": 392,
+                    "width": 145,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "key_type": "nam_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 735,
+                    "y": 443,
+                    "width": 345,
+                    "height": 45
+                },
+                "region_attributes": {
+                    "key_type": "noi_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 54,
+                    "width": 1059,
+                    "height": 674
+                },
+                "region_attributes": {
+                    "key_type": "page"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 105,
+                    "width": 130,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "text": "Dân tộc:",
+                    "key_type": "key_dan_toc"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 584,
+                    "y": 106,
+                    "width": 147,
+                    "height": 51
+                },
+                "region_attributes": {
+                    "text": "Tôn giáo:",
+                    "key_type": "key_ton_giao"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 596,
+                    "y": 169,
+                    "width": 426,
+                    "height": 47
+                },
+                "region_attributes": {
+                    "text": "DẤU VẾT RIÊNG VÀ DỊ HÌNH",
+                    "key_type": "key_dau_vet"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 508,
+                    "y": 392,
+                    "width": 90,
+                    "height": 44
+                },
+                "region_attributes": {
+                    "text": "Ngày",
+                    "key_type": "key_ngay_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 693,
+                    "y": 396,
+                    "width": 88,
+                    "height": 43
+                },
+                "region_attributes": {
+                    "text": "tháng",
+                    "key_type": "key_thang_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 865,
+                    "y": 400,
+                    "width": 70,
+                    "height": 36
+                },
+                "region_attributes": {
+                    "text": "năm",
+                    "key_type": "key_nam_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 162,
+                    "width": 390,
+                    "height": 263
+                },
+                "region_attributes": {
+                    "key_type": "van_tay_trai",
+                    "text": "NGÓN TRỎ TRÁI"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 435,
+                    "width": 391,
+                    "height": 265
+                },
+                "region_attributes": {
+                    "key_type": "van_tay_phai",
+                    "text": "NGÓN TRỎ PHẢI"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 516,
+                    "y": 448,
+                    "width": 214,
+                    "height": 41
+                },
+                "region_attributes": {
+                    "text": "GIÁM ĐỐC CA",
+                    "key_type": "key_noi_cap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 113,
+                    "width": 23,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "D"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 113,
+                    "width": 17,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "â"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 119,
+                    "width": 19,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 115,
+                    "width": 13,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "t"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 194,
+                    "y": 114,
+                    "width": 17,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "ộ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 213,
+                    "y": 120,
+                    "width": 16,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": "c"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 229,
+                    "y": 120,
+                    "width": 8,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dan_toc",
+                    "text": ":"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 589,
+                    "y": 116,
+                    "width": 21,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 610,
+                    "y": 118,
+                    "width": 18,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "ô"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 627,
+                    "y": 124,
+                    "width": 19,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 655,
+                    "y": 124,
+                    "width": 19,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "g"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 673,
+                    "y": 117,
+                    "width": 9,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "i"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 682,
+                    "y": 118,
+                    "width": 18,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "á"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 700,
+                    "y": 125,
+                    "width": 19,
+                    "height": 21
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": "o"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 720,
+                    "y": 123,
+                    "width": 7,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ton_giao",
+                    "text": ":"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 600,
+                    "y": 181,
+                    "width": 23,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "D"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 622,
+                    "y": 173,
+                    "width": 22,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "Ấ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 644,
+                    "y": 181,
+                    "width": 22,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "U"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 673,
+                    "y": 182,
+                    "width": 23,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "V"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 695,
+                    "y": 174,
+                    "width": 22,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "Ế"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 715,
+                    "y": 182,
+                    "width": 20,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 743,
+                    "y": 183,
+                    "width": 23,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "R"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 767,
+                    "y": 183,
+                    "width": 7,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "I"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 776,
+                    "y": 176,
+                    "width": 19,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "Ê"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 796,
+                    "y": 183,
+                    "width": 21,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 819,
+                    "y": 183,
+                    "width": 24,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "G"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 848,
+                    "y": 183,
+                    "width": 24,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "V"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 871,
+                    "y": 178,
+                    "width": 23,
+                    "height": 32
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "À"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 900,
+                    "y": 183,
+                    "width": 24,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "D"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 923,
+                    "y": 184,
+                    "width": 10,
+                    "height": 32
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "Ị"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 941,
+                    "y": 184,
+                    "width": 21,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "H"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 961,
+                    "y": 178,
+                    "width": 11,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "Ì"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 973,
+                    "y": 184,
+                    "width": 21,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 995,
+                    "y": 185,
+                    "width": 22,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_dau_vet",
+                    "text": "H"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 200,
+                    "width": 21,
+                    "height": 20
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 220,
+                    "width": 21,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "G"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 239,
+                    "width": 26,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "Ó"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 257,
+                    "width": 20,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 278,
+                    "width": 22,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 295,
+                    "width": 22,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "R"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 311,
+                    "width": 29,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "Ỏ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 335,
+                    "width": 22,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 352,
+                    "width": 22,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "R"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 368,
+                    "width": 27,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "Á"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 383,
+                    "width": 21,
+                    "height": 8
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_trai",
+                    "text": "I"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 474,
+                    "width": 21,
+                    "height": 19
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 494,
+                    "width": 21,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "G"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 511,
+                    "width": 26,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "Ó"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 450,
+                    "y": 529,
+                    "width": 22,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 553,
+                    "width": 20,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 570,
+                    "width": 20,
+                    "height": 16
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "R"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 452,
+                    "y": 585,
+                    "width": 26,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "Ỏ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 450,
+                    "y": 609,
+                    "width": 21,
+                    "height": 18
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "P"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 450,
+                    "y": 626,
+                    "width": 21,
+                    "height": 17
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "H"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 451,
+                    "y": 644,
+                    "width": 27,
+                    "height": 15
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "Ả"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 450,
+                    "y": 660,
+                    "width": 21,
+                    "height": 6
+                },
+                "region_attributes": {
+                    "key_type": "in_van_tay_phai",
+                    "text": "I"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 513,
+                    "y": 398,
+                    "width": 26,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ngay_cap",
+                    "text": "N"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 537,
+                    "y": 405,
+                    "width": 19,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ngay_cap",
+                    "text": "g"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 555,
+                    "y": 400,
+                    "width": 18,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ngay_cap",
+                    "text": "à"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 573,
+                    "y": 406,
+                    "width": 19,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_ngay_cap",
+                    "text": "y"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 695,
+                    "y": 402,
+                    "width": 11,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_key_thang_cap",
+                    "text": "t"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 705,
+                    "y": 400,
+                    "width": 18,
+                    "height": 29
+                },
+                "region_attributes": {
+                    "key_type": "in_key_thang_cap",
+                    "text": "h"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 723,
+                    "y": 401,
+                    "width": 19,
+                    "height": 28
+                },
+                "region_attributes": {
+                    "key_type": "in_key_thang_cap",
+                    "text": "á"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 741,
+                    "y": 407,
+                    "width": 19,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_key_thang_cap",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 758,
+                    "y": 407,
+                    "width": 21,
+                    "height": 30
+                },
+                "region_attributes": {
+                    "key_type": "in_key_thang_cap",
+                    "text": "g"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 867,
+                    "y": 407,
+                    "width": 20,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "key_type": "in_key_nam_cap",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 885,
+                    "y": 403,
+                    "width": 20,
+                    "height": 29
+                },
+                "region_attributes": {
+                    "key_type": "in_key_nam_cap",
+                    "text": "ă"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 904,
+                    "y": 409,
+                    "width": 29,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_key_nam_cap",
+                    "text": "m"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 517,
+                    "y": 456,
+                    "width": 23,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "G"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 542,
+                    "y": 458,
+                    "width": 6,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "I"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 549,
+                    "y": 453,
+                    "width": 22,
+                    "height": 30
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "Á"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 571,
+                    "y": 458,
+                    "width": 24,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "M"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 604,
+                    "y": 458,
+                    "width": 22,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "Đ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 628,
+                    "y": 449,
+                    "width": 23,
+                    "height": 35
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "Ố"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 651,
+                    "y": 457,
+                    "width": 24,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "C"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 681,
+                    "y": 457,
+                    "width": 24,
+                    "height": 26
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "C"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 704,
+                    "y": 459,
+                    "width": 22,
+                    "height": 25
+                },
+                "region_attributes": {
+                    "key_type": "in_key_noi_cap",
+                    "text": "A"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 548,
+                    "y": 606,
+                    "width": 501,
+                    "height": 87
+                },
+                "region_attributes": {
+                    "key_type": "nguoi_ky",
+                    "text": "Trần Huy Dũng"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 551,
+                    "y": 608,
+                    "width": 55,
+                    "height": 57
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "T"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 599,
+                    "y": 639,
+                    "width": 24,
+                    "height": 24
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "r"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 623,
+                    "y": 620,
+                    "width": 33,
+                    "height": 46
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "ầ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 653,
+                    "y": 644,
+                    "width": 30,
+                    "height": 23
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 714,
+                    "y": 614,
+                    "width": 105,
+                    "height": 53
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "H"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 794,
+                    "y": 646,
+                    "width": 27,
+                    "height": 22
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "u"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 819,
+                    "y": 646,
+                    "width": 37,
+                    "height": 42
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "y"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 885,
+                    "y": 619,
+                    "width": 66,
+                    "height": 54
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "D"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 949,
+                    "y": 637,
+                    "width": 34,
+                    "height": 36
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "ũ"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 979,
+                    "y": 648,
+                    "width": 37,
+                    "height": 27
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "n"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1011,
+                    "y": 648,
+                    "width": 35,
+                    "height": 42
+                },
+                "region_attributes": {
+                    "key_type": "in_nguoi_ky",
+                    "text": "g"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}

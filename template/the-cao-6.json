@@ -1,0 +1,56 @@
+{
+    "the-cao-6.png164344": {
+        "filename": "the-cao-6.png",
+        "size": 164344,
+        "regions": [{
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 121,
+                    "y": 87,
+                    "width": 237,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "key_type": "ma_nap"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 9,
+                    "width": 453,
+                    "height": 189
+                },
+                "region_attributes": {
+                    "key_type": "page"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 177,
+                    "y": 157,
+                    "width": 165,
+                    "height": 12
+                },
+                "region_attributes": {
+                    "key_type": "serial_num"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 174,
+                    "y": 154,
+                    "width": 172,
+                    "height": 33
+                },
+                "region_attributes": {
+                    "key_type": "serial_block"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
